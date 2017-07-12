@@ -1,0 +1,33 @@
+When we change memory for mary server we restart server.
+This should be announced - Pri Low
+
+When mary server reaches a limit, it restarts.
+This should be announced - Pri Low
+
+Clear text shortcut - Pri High
+
+Export wav - Pri High
+
+Split text to keep mary server low - Pri Medium
+
+Implement cancel - Pri Medium
+
+Give user feedback about what is going on - Pri Medium
+
+Control volume - speed - Pri Low
+
+Restart orca - speech-dispatcher shortcut - Pri Medium
+
+Sed to speechd.conf to add omilo module - Pri High
+
+Study http-download-manager from Qt examples
+See another implementation - Pri Low
+
+Communicate between process
+omilo and omilo-cli so we can send voice setting - Pri High
+
+Option to hide omilo and shortcut to show it - Pri High
+
+Use sed to add orca module - Pri High
+
+
